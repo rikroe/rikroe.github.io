@@ -1,8 +1,7 @@
 ---
-#layout: post
-title:  "Welcome to Jekyll!"
+layout: post
+title:  "Test!"
 ---
-# Test #
 Hi,
 
 this is a `test`
