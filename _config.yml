@@ -1,4 +1,4 @@
-#theme: jekyll-theme-architect
-theme: default
+theme: jekyll-theme-architect
+#theme: default
 title: Rikroe's page
 permalink: /:title
